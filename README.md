@@ -85,7 +85,7 @@ In Obsidian, the **graph view** shows the relationships between notes based on t
 
 Once you run the script, you should have the papers listed as separate pages in obsidian and when you click on each page, you should see the information listed about the paper like this:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text]( https://github.com/andrewjeyaraj/Paper_Summarizer/blob/main/graph_view.png "Logo Title Text 1")
 
 
 
