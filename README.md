@@ -77,14 +77,15 @@ After running the script, open your Obsidian vault, and you should see the newly
 
 You can visualize connections between your notes using Obsidian's **graph view**.
 
-**`![Graph View Example](./images/graph.png)`**
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ### **How the Graph is Built Using Keywords**
 
-In Obsidian, the **graph view** shows the relationships between notes based on the links between them. The script automatically creates **links** between papers using **keywords** extracted from each paper. For example, if two papers share the keyword `AI`, a link is created between the two papers in the markdown file like this:
+In Obsidian, the **graph view** shows the relationships between notes based on the links between them. The script automatically creates **links** between papers using **keywords** extracted from each paper. For example, if two papers share the keyword `AI`, a link is created between the two papers in the markdown file.
 
-```markdown
-[[AI]]
+Once you run the script, you should have the papers listed as separate pages in obsidian and when you click on each page, you should see the information listed about the paper like this:
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 
